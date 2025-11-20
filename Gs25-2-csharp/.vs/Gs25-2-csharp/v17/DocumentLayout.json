@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|d:\\gss\\gs-25-2-csharp\\gs25-2-csharp\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|d:\\gss\\gs-25-2-csharp\\gs25-2-csharp\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|d:\\gss\\gs-25-2-csharp\\gs25-2-csharp\\api\\controllers\\competenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|solutionrelative:api\\controllers\\competenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B41A547-5403-40A5-B7A3-0DC9545ADD55}|Business\\Business.csproj|d:\\gss\\gs-25-2-csharp\\gs25-2-csharp\\business\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B41A547-5403-40A5-B7A3-0DC9545ADD55}|Business\\Business.csproj|solutionrelative:business\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|d:\\gss\\gs-25-2-csharp\\gs25-2-csharp\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|d:\\gss\\gs-25-2-csharp\\gs25-2-csharp\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|d:\\gss\\gs-25-2-csharp\\gs25-2-csharp\\api\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|solutionrelative:api\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|d:\\gss\\gs-25-2-csharp\\gs25-2-csharp\\api\\controllers\\trilhacompetenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|solutionrelative:api\\controllers\\trilhacompetenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|d:\\gss\\gs-25-2-csharp\\gs25-2-csharp\\api\\controllers\\competenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|solutionrelative:api\\controllers\\competenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|d:\\gss\\gs-25-2-csharp\\gs25-2-csharp\\api\\controllers\\trilhacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0B41A547-5403-40A5-B7A3-0DC9545ADD55}|Business\\Business.csproj|d:\\gss\\gs-25-2-csharp\\gs25-2-csharp\\business\\competenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B41A547-5403-40A5-B7A3-0DC9545ADD55}|Business\\Business.csproj|solutionrelative:business\\competenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|d:\\gss\\gs-25-2-csharp\\gs25-2-csharp\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CC19969-2674-4509-8B89-F7BE5483AA73}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B41A547-5403-40A5-B7A3-0DC9545ADD55}|Business\\Business.csproj|d:\\gss\\gs-25-2-csharp\\gs25-2-csharp\\business\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B41A547-5403-40A5-B7A3-0DC9545ADD55}|Business\\Business.csproj|solutionrelative:business\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B41A547-5403-40A5-B7A3-0DC9545ADD55}|Business\\Business.csproj|d:\\gss\\gs-25-2-csharp\\gs25-2-csharp\\business\\matriculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,11 +114,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "MatriculaController.cs",
               "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Controllers\\MatriculaController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\MatriculaController.cs",
@@ -119,46 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TrilhaCompetenciaController.cs",
-              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Controllers\\TrilhaCompetenciaController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\TrilhaCompetenciaController.cs",
-              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Controllers\\TrilhaCompetenciaController.cs",
-              "RelativeToolTip": "API\\Controllers\\TrilhaCompetenciaController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T23:15:17.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CompetenciaController.cs",
-              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Controllers\\CompetenciaController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\CompetenciaController.cs",
-              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Controllers\\CompetenciaController.cs",
-              "RelativeToolTip": "API\\Controllers\\CompetenciaController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAqwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T23:14:59.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TrilhaController.cs",
-              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Controllers\\TrilhaController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\TrilhaController.cs",
-              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Controllers\\TrilhaController.cs",
-              "RelativeToolTip": "API\\Controllers\\TrilhaController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAqwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T23:14:40.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\UsuarioController.cs",
@@ -166,90 +139,24 @@
               "RelativeToolTip": "API\\Controllers\\UsuarioController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T23:13:55.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T23:13:55.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MatriculaService.cs",
-              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\MatriculaService.cs",
-              "RelativeDocumentMoniker": "Business\\MatriculaService.cs",
-              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\MatriculaService.cs",
-              "RelativeToolTip": "Business\\MatriculaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T23:10:52.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TrilhaCompetenciaService.cs",
-              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\TrilhaCompetenciaService.cs",
-              "RelativeDocumentMoniker": "Business\\TrilhaCompetenciaService.cs",
-              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\TrilhaCompetenciaService.cs",
-              "RelativeToolTip": "Business\\TrilhaCompetenciaService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T23:10:41.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CompetenciaService.cs",
-              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\CompetenciaService.cs",
-              "RelativeDocumentMoniker": "Business\\CompetenciaService.cs",
-              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\CompetenciaService.cs",
-              "RelativeToolTip": "Business\\CompetenciaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T23:10:31.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TrilhaService.cs",
-              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\TrilhaService.cs",
-              "RelativeDocumentMoniker": "Business\\TrilhaService.cs",
-              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\TrilhaService.cs",
-              "RelativeToolTip": "Business\\TrilhaService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T23:09:58.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IMatriculaService.cs",
-              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\IMatriculaService.cs",
-              "RelativeDocumentMoniker": "Business\\IMatriculaService.cs",
-              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\IMatriculaService.cs",
-              "RelativeToolTip": "Business\\IMatriculaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T23:09:20.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
               "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T23:00:08.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "UsuarioService.cs",
               "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\UsuarioService.cs",
               "RelativeDocumentMoniker": "Business\\UsuarioService.cs",
@@ -262,7 +169,143 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompetenciaController.cs",
+              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Controllers\\CompetenciaController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CompetenciaController.cs",
+              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Controllers\\CompetenciaController.cs",
+              "RelativeToolTip": "API\\Controllers\\CompetenciaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:14:59.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T23:32:16.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "API.http",
+              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\API.http",
+              "RelativeDocumentMoniker": "API\\API.http",
+              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\API.http",
+              "RelativeToolTip": "API\\API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-20T23:32:14.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T23:32:20.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrilhaController.cs",
+              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Controllers\\TrilhaController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TrilhaController.cs",
+              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Controllers\\TrilhaController.cs",
+              "RelativeToolTip": "API\\Controllers\\TrilhaController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:14:40.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MatriculaService.cs",
+              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\MatriculaService.cs",
+              "RelativeDocumentMoniker": "Business\\MatriculaService.cs",
+              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\MatriculaService.cs",
+              "RelativeToolTip": "Business\\MatriculaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:10:52.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrilhaCompetenciaController.cs",
+              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Controllers\\TrilhaCompetenciaController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TrilhaCompetenciaController.cs",
+              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\API\\Controllers\\TrilhaCompetenciaController.cs",
+              "RelativeToolTip": "API\\Controllers\\TrilhaCompetenciaController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:15:17.297Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "TrilhaCompetenciaService.cs",
+              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\TrilhaCompetenciaService.cs",
+              "RelativeDocumentMoniker": "Business\\TrilhaCompetenciaService.cs",
+              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\TrilhaCompetenciaService.cs",
+              "RelativeToolTip": "Business\\TrilhaCompetenciaService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:10:41.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompetenciaService.cs",
+              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\CompetenciaService.cs",
+              "RelativeDocumentMoniker": "Business\\CompetenciaService.cs",
+              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\CompetenciaService.cs",
+              "RelativeToolTip": "Business\\CompetenciaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:10:31.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TrilhaService.cs",
+              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\TrilhaService.cs",
+              "RelativeDocumentMoniker": "Business\\TrilhaService.cs",
+              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\TrilhaService.cs",
+              "RelativeToolTip": "Business\\TrilhaService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:09:58.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMatriculaService.cs",
+              "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\IMatriculaService.cs",
+              "RelativeDocumentMoniker": "Business\\IMatriculaService.cs",
+              "ToolTip": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\IMatriculaService.cs",
+              "RelativeToolTip": "Business\\IMatriculaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T23:09:20.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ITrilhaCompetenciaService.cs",
               "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\ITrilhaCompetenciaService.cs",
               "RelativeDocumentMoniker": "Business\\ITrilhaCompetenciaService.cs",
@@ -270,12 +313,11 @@
               "RelativeToolTip": "Business\\ITrilhaCompetenciaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T23:09:02.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T23:09:02.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ICompetenciaService.cs",
               "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\ICompetenciaService.cs",
               "RelativeDocumentMoniker": "Business\\ICompetenciaService.cs",
@@ -283,12 +325,11 @@
               "RelativeToolTip": "Business\\ICompetenciaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T23:08:46.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T23:08:46.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "ITrilhaService.cs",
               "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\ITrilhaService.cs",
               "RelativeDocumentMoniker": "Business\\ITrilhaService.cs",
@@ -296,12 +337,11 @@
               "RelativeToolTip": "Business\\ITrilhaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T23:08:33.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T23:08:33.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Usuario.cs",
               "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Models\\Usuario.cs",
@@ -309,12 +349,11 @@
               "RelativeToolTip": "Models\\Usuario.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T22:54:52.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T22:54:52.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "TrilhaCompetencia.cs",
               "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Models\\TrilhaCompetencia.cs",
               "RelativeDocumentMoniker": "Models\\TrilhaCompetencia.cs",
@@ -322,12 +361,11 @@
               "RelativeToolTip": "Models\\TrilhaCompetencia.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T22:54:51.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T22:54:51.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Trilha.cs",
               "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Models\\Trilha.cs",
               "RelativeDocumentMoniker": "Models\\Trilha.cs",
@@ -335,12 +373,11 @@
               "RelativeToolTip": "Models\\Trilha.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T22:54:51.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T22:54:51.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Matricula.cs",
               "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Models\\Matricula.cs",
               "RelativeDocumentMoniker": "Models\\Matricula.cs",
@@ -348,12 +385,11 @@
               "RelativeToolTip": "Models\\Matricula.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T22:54:50.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T22:54:50.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Competencia.cs",
               "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Models\\Competencia.cs",
               "RelativeDocumentMoniker": "Models\\Competencia.cs",
@@ -361,12 +397,11 @@
               "RelativeToolTip": "Models\\Competencia.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T22:54:50.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T22:54:50.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -374,12 +409,11 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T22:49:47.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T22:49:47.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "IUsuarioService.cs",
               "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Business\\IUsuarioService.cs",
               "RelativeDocumentMoniker": "Business\\IUsuarioService.cs",
@@ -387,12 +421,11 @@
               "RelativeToolTip": "Business\\IUsuarioService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T22:55:19.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T22:55:19.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "ApplicationDbContextFactory.cs",
               "DocumentMoniker": "D:\\GSs\\GS-25-2-Csharp\\Gs25-2-csharp\\Data\\ApplicationDbContextFactory.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContextFactory.cs",
@@ -400,8 +433,7 @@
               "RelativeToolTip": "Data\\ApplicationDbContextFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T22:46:14.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T22:46:14.99Z"
             }
           ]
         }
