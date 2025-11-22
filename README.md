@@ -86,4 +86,4 @@ API (Controllers REST)
 
 ---
 ## Link para o video
-- [Video](https://www.youtube.com/)
+- [Video](https://youtu.be/5ArztDPPAwA)
