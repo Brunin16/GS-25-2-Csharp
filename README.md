@@ -76,7 +76,7 @@ API (Controllers REST)
 3. Rode o projeto:
    dotnet run
 4. Acesse o Swagger:
-   http://localhost:5221/swagger
+   http://localhost:5056/swagger
 
 ---
 
