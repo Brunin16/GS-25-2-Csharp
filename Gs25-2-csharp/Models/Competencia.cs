@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace Models
@@ -20,7 +21,7 @@ namespace Models
 
         [MaxLength(255)]
         public string Descricao { get; set; }
-
-        public ICollection<TrilhaCompetencia> TrilhaCompetencias { get; set; }
+        [JsonIgnore]
+        public ICollection<TrilhaCompetencia>? TrilhaCompetencias { get; set; }
     }
 }

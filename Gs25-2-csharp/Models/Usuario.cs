@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace Models
@@ -27,7 +28,7 @@ namespace Models
         public string NivelCarreira { get; set; }
 
         public DateTime DataCadastro { get; set; } = DateTime.UtcNow;
-
-        public ICollection<Matricula> Matriculas { get; set; }
+        [JsonIgnore]
+        public ICollection<Matricula>? Matriculas { get; set; }
     }
 }
